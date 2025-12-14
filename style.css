@@ -1,0 +1,32 @@
+#container{
+    
+
+}
+.project {
+    background-color: lightblue;
+    border: solid black 2px;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.project h2{
+    background-color: rgb(156, 194, 207);
+    padding: 10px;
+    margin: -10px -10px 0px -10px;
+    overflow: hidden;
+    border: solid rgb(156, 194, 207) 2px;
+    border-radius: 25px 25px 0px 0px;
+}
+
+.project a{
+    background-color: aliceblue;
+    border: solid black 1px;
+    padding: 5px;
+    margin: 0px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    box-shadow:
+    3px 3px rgb(105, 155, 172);
+}
