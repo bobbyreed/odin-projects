@@ -17,6 +17,30 @@ export const PROJECTS = {
         githubURL: "https://github.com/bobbyreed/odin-etch-a-sketch",
         description: "Two versions of the classic kids toy. In the second version the awful knobs are implemented.",
         liveURL: "https://bobbyreed.github.io/odin-etch-a-sketch/"
+    },
+    "calc":{
+        title: "Calculator",
+        githubURL: "https://github.com/bobbyreed/calculator",
+        description: "Calculator built as part of the Odin Project Curriculum.",
+        liveURL: "https://calc.abobbyreed.com"
+    },
+    "sign-up-form":{
+        title: "Sign-Up Form",
+        githubURL: "https://github.com/bobbyreed/odin-sign-up-form",
+        description: "Sign-up form project from the Odin Project Curriculum",
+        liveURL: "https://bobbyreed.github.io/odin-sign-up-form/"
+    },
+    "recipes":{
+        title: "Recipes",
+        githubURL: "https://github.com/bobbyreed/odin-recipes/",
+        description: "Collection of recipes built as part of the Odin Project curriculum.",
+        liveURL: "https://bobbyreed.github.io/odin-recipes/"
+    },
+    "admin-dashboard":{
+        title: "Admin Dashboard",
+        githubURL: "https://github.com/bobbyreed/odin-admin-dashboard",
+        description: "Admin Dashboard created as part of The Odin Project curriculum. Really just barebones.",
+        liveURL: "https://bobbyreed.github.io/odin-admin-dashboard"
     }
 };
 
