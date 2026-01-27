@@ -41,6 +41,18 @@ export const PROJECTS = {
         githubURL: "https://github.com/bobbyreed/odin-admin-dashboard",
         description: "Admin Dashboard created as part of The Odin Project curriculum. Really just barebones.",
         liveURL: "https://bobbyreed.github.io/odin-admin-dashboard"
+    },
+    "library":{
+        title:"Library (Bobby Reads)",
+        githubURL:"https://github.com/bobbyreed/odin-library",
+        description:"More of a reading tracker than what the Odin Project stipulated, but still checks all the boxes.",
+        liveURL:"https://reads.abobbyreed.com/"
+    },
+    "tic-tac-toe":{
+        title:"Tic-Tac-Toe",
+        githubURL:"https://github.com/bobbyreed/odin-tic-tac-toe",
+        description:"Simple Tic-Tac-Toe game with horrendous color choices.",
+        liveURL:"https://bobbyreed.github.io/odin-tic-tac-toe/"
     }
 };
 
